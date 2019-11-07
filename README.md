@@ -40,7 +40,8 @@ This is a pipeline mainly involved in the analysis of small RNA-seq Dual librari
 
 # STEP 1: Preprocessing of input data
 
-<div style="text-align: justify"><font size="4">It consists in the removal of low quality information, artifacts such as adaptadors, and contamination, with Trimmomatic (Bolger et al. 2014). As this pipeline is mainly related to input data coming from RNA-seq Dual analysis, it's important to split the reads in order to get those from the host and the pathogen, separately. BBDuk (Bushnell 2018) performs very well this task by a k-mer based approach. It's also recommended to align those separated reads against several rRNA databases with SortMeRNA (Kopylova et al. 2012), in order to avoid alignment and differential expression noise. At last, if there's available a reference genome, it will be very useful for downstream analysis, if those separated and rRNA depleted reads are mapped against that genome, to assure clean reads coming only from either the pathogen or host.</font> </div>
+<div style="text-align: justify"><font size="4">
+It consists in the removal of low quality information, artifacts such as adaptadors, and contamination, with Trimmomatic (Bolger et al. 2014). As this pipeline is mainly related to input data coming from RNA-seq Dual analysis, it's important to split the reads in order to get those from the host and the pathogen, separately. BBDuk (Bushnell 2018) performs very well this task by a k-mer based approach. It's also recommended to align those separated reads against several rRNA databases with SortMeRNA (Kopylova et al. 2012), in order to avoid alignment and differential expression noise. At last, if there's available a reference genome, it will be very useful for downstream analysis, if those separated and rRNA depleted reads are mapped against that genome, to assure clean reads coming only from either the pathogen or host.</font> </div>
 
 <a id="step2"></a>
 
