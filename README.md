@@ -22,7 +22,7 @@ This is a pipeline mainly involved in the analysis of small RNA-seq Dual librari
     <br>
     
     * [Step 6: Annotation](#step6)
-    <br>
+    
 * [<font size="4">Contact</font>](#Contact)
    <br>
 * [<font size="4">References</font>](#References)
