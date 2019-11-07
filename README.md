@@ -6,7 +6,7 @@ This is a pipeline mainly involved in the analysis of small RNA-seq Dual librari
 
 * [<font size="4">Pipeline overview</font>](#Pipeline-description):
     <br>
-  * [<font size="4">Step 1: Preprocessing of input data</font>](#STEP-1:Preprocessing-of-input-data) 
+  * [Step 1: Preprocessing of input data](#STEP-1:Preprocessing-of-input-data) 
      <br>
   * [<font size="3">Step 2: *de novo* assembly of transcripts</font>](#STEP-2:de-novo-assembly-of-transcripts)
     <br>
