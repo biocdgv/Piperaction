@@ -9,22 +9,22 @@ This is a pipeline mainly involved in the analysis of small RNA-seq Dual librari
 * [<font size="4">Pipeline overview</font>](#Pipeline-description):
     <br>
 
-    - [<font size="3">Step 1: Preprocessing of input data</font>](#STEP-1:Preprocessing-of-input-data) 
+    *  [<font size="3">Step 1: Preprocessing of input data</font>](#STEP-1:Preprocessing-of-input-data) 
      <br>
 
-    - [<font size="3">Step 2: *de novo* assembly of transcripts</font>](#STEP-2:de-novo-assembly-of-transcripts)
+    * [<font size="3">Step 2: *de novo* assembly of transcripts</font>](#STEP-2:de-novo-assembly-of-transcripts)
     <br>
 
-    - [<font size="3">Step 3: Transcriptome quality assessment</font>](#STEP-3:Transcriptome-quality-assessment)
+    * [<font size="3">Step 3: Transcriptome quality assessment</font>](#STEP-3:Transcriptome-quality-assessment)
     <br>
 
-    - [<font size="3">Step 4: Merging assemblies</font>](#STEP-4:Merging-assemblies)
+    * [<font size="3">Step 4: Merging assemblies</font>](#STEP-4:Merging-assemblies)
     <br>
 
-    - [<font size="3">Step 5: Coding potential</font>](#STEP-5:Coding-potential)
+    * [<font size="3">Step 5: Coding potential</font>](#STEP-5:Coding-potential)
     <br>
     
-    - [<font size="3">Step 6: Annotation</font>](#STEP-6:Annotation)
+    * [<font size="3">Step 6: Annotation</font>](#STEP-6:Annotation)
     <br>
 
 *  [<font size="4">Contact</font>](#Contact)
