@@ -34,8 +34,7 @@
    <br>
    
    *  [<font size="4">Main Functions Part 3</font>](#main3)
-    <br>
-    
+    <br>    
     
 *  [<font size="4">References</font>](#References)
    <br>
