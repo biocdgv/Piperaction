@@ -8,14 +8,19 @@ This is a pipeline mainly involved in the analysis of small RNA-seq Dual librari
     <br>
     * [Step 1: Preprocessing of input data](#step1) 
      <br>
+     
     * [Step 2: *de novo* assembly of transcripts](#step2)
     <br>
+    
     * [Step 3: Transcriptome quality assessment](#step3)
     <br>
+    
     * [Step 4: Merging assemblies](#step4)
     <br>
+    
     * [Step 5: Coding potential](#step5)
     <br>
+    
     * [Step 6: Annotation](#step6)
     <br>
 * [<font size="4">Contact</font>](#Contact)
