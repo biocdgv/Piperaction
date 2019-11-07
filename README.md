@@ -29,6 +29,8 @@ This is a pipeline mainly involved in the analysis of small RNA-seq Dual librari
    <br>
 * [<font size="4">Keynotes</font>](#Keynote)
 
+* [<font size="4">Acknowledgements</font>](#ack)
+
 
 <a id="Pipeline-description"></a>
 
@@ -125,6 +127,12 @@ It consists in the removal of low quality information, artifacts such as adaptad
 
 Notebook where some design ideas were borrowed: https://github.com/CompSynBioLab-KoreaUniv/FunGAP</font> </div>
 
+
+<a id="ack"></a>
+
+# Acknowledgements:
+
+At first, I want to thank both of the Institutions that helped me throughout my academic and professional growth, University of Antioquia and EAFIT University. Secondly to my advisors and colleagues for  their practical contributions to this work. Finally, to my family who always supported me.
 
 
 <a id="References"></a>
