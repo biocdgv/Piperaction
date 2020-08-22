@@ -2,9 +2,9 @@
 #  Workflow  to identify coding and long non-coding RNAs (lncRNAs) from RNA-Seq libraries
 
 <div style="text-align: justify"><font size="4">
-This is a pipeline mainly involved in the analysis of small RNA-seq Dual libraries, coming from non-model organism, with just one replicate, low depth and genome independent. However, it's very flexible and you can take a look of the general purpose of this workflow, its scripts and contribute as well!</font> </div> 
+This is a workflow mainly involved in the analysis of small RNA-seq Dual libraries, coming from non-model organism, with just one replicate, low depth and genome independent. However, it's very flexible and you can take a look of the general purpose of this workflow, its scripts and contribute as well!</font> </div> 
 
-* [<font size="4">Pipeline overview</font>](#Pipeline-description):
+* [<font size="4">Workflow overview</font>](#Pipeline-description):
     <br>
     * [Step 1: Preprocessing of input data](#step1) 
      <br>
@@ -32,7 +32,7 @@ This is a pipeline mainly involved in the analysis of small RNA-seq Dual librari
 * [<font size="4">Acknowledgements</font>](#ack)
 
 
-<a id="Pipeline-description"></a>
+<a id="Workflow-description"></a>
 
 # Pipeline overview
 
