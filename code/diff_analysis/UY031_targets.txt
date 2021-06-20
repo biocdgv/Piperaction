@@ -1,0 +1,7 @@
+	condition
+Potato_1_UY	potato_UY031
+Potato_2_UY	potato_UY031
+Potato_3_UY	potato_UY031
+Control_1_UY	control_UY031
+Control_2_UY	control_UY031
+Control_3_UY	control_UY031
